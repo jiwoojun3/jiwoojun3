@@ -1,6 +1,11 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jiwoo%20Jun&fontSize=90" />
 
-<!--
+### 안녕하세요 UX 디자이너를 꿈꾸는 전지우입니다👋
+<div align="center">
+  안녕하세요. 저는 UX/UI 디자이너를 꿈꾸는 전지우입니다.
+
+</div>
+
 **jiwoojun3/jiwoojun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
