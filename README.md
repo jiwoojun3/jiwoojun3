@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Jiwoo%20Jun&fontSize=90" />
 
-## 📍<br> WELCOME❕ <br> I AM DESIGNER, <br>JUN JIWOO 〽️
+## 📍<br> DESIGNER OF❕ <br> UX • UI〽️
 <br>
 <br>
   
